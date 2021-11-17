@@ -1,0 +1,5 @@
+com/opstty/reducer/IntSumReducer.class
+com/opstty/job/Sort.class
+com/opstty/mapper/TokenizerMapper.class
+com/opstty/AppDriver.class
+com/opstty/job/WordCount.class
